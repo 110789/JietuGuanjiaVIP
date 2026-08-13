@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="xposed_scope">
+        <item>com.YiGeTechnology.XiaoWai.business</item>
+    </string-array>
+</resources>
